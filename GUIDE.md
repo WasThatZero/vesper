@@ -6,7 +6,7 @@ This guide also assumes you have basic JSON knowledge - it's decently easy to fi
 
 The name is also misleading because this document goes over more what everything *means* rather than how to specifically add custom products
 
-# Voicebanks (voice databases)
+## Voicebanks (voice databases)
 
 id - the specific product ID, must be unique
 type - product type, for voicebanks it's either "Voice Database" for SV1 or "Voice Databases 2" for SV2
@@ -43,6 +43,6 @@ version - version number
 version_latest_v2model - likely version of the AI model file inside the package. potentially used to offer model-only updates without a full reinstall
 version_latest_update - no info
 
-# Editors/non-voice products
+## Editors/non-voice products
 
 essentially the same as above
