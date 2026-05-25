@@ -8,7 +8,7 @@ A reverse-engineered reimplementation of the [Dreamtonics](https://dreamtonics.c
 
 > **DISCLAIMER:** This is a personal research/learning project. All product data was captured from the real API using a local HTTPS proxy. No Dreamtonics servers are/were modified or attacked. Use responsibly and for educational purposes only.
 
-> I also tried my best not to make *my* code look AI-generated. Since that's apparently something you need to worry about nowadays. Excuse the potential lack of comments and documentation outside this README. And yes, I am bitter about this.
+> I also tried my best not to make *my* code look AI-generated since that's apparently something you need to worry about nowadays. Excuse the potential lack of comments and documentation outside this README. And yes, I am bitter about this.
 
 ---
 
