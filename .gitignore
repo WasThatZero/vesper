@@ -1,0 +1,11 @@
+# logger
+dreamtonics_api.log
+dreamtonics_api.json
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# mitmproxy
+.mitmproxy/
