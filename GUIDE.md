@@ -2,7 +2,7 @@
 
 This guide is going to be in waaaaaay more of a casual tone because its 00:30 as I'm writing this and I frankly cannot be assed to speak like a normal person right now
 
-This guide also assumes you have basic JSON knowledge - it's decently easy to figure out and you can just copypaste from entries in the seed
+This guide also assumes you have basic JSON knowledge - it's decently easy to figure out and you can mostly just copypaste from entries in the seed
 
 The name is also misleading because this document goes over more what everything *means* rather than how to specifically add custom products
 
