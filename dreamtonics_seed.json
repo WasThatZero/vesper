@@ -9182,45 +9182,6 @@
       }
     },
     {
-      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-      "type": "Voice Databases 2",
-      "name": "vesper",
-      "vendor": "a dreamtonics product manager reimplementation",
-      "icon": "https://authr3-media.r2.dreamtonics.com/products/icons/ANDI-Vesper/ANDIV_256x256_PEydG7NxLGuBHEUc.png",
-      "keywords": "vesper mitmproxy reverse engineering",
-      "languages": [
-        "English"
-      ],
-      "gender": "Masculine",
-      "tags": [
-        "web-style-download-button-outlined",
-        "web-text-download-description-v2-voice-v2-only"
-      ],
-      "eula": null,
-      "genres": [
-        "Pop",
-        "Rock",
-        "Electronic"
-      ],
-      "pitch_range_min": 45,
-      "pitch_range_max": 69,
-      "audio_url": null,
-      "show_language_tags": true,
-      "show_purchase_button": true,
-      "show_download_button": false,
-      "show_download_button_in_editor": false,
-      "show_upgrade_button": false,
-      "upgrade_to_version": null,
-      "editor_version": "2.0",
-      "is_trialable": true,
-      "release_date": 1748131200,
-      "trial_days_total": 7,
-      "order": 100,
-      "version": null,
-      "version_latest_v2model": null,
-      "version_latest_update": null
-    },
-    {
       "id": "fe48fd7c-e4aa-43bb-95ad-83256fe1bb29",
       "type": "Voice Databases 2",
       "name": "ANDI Vesper Lite",
