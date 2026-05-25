@@ -97,7 +97,7 @@ Captures all traffic to 'authr3.dreamtonics.com' and 'account.dreamtonics.com' a
 
 ## API coverage
 
-All endpoints served by the local reimplementation:
+All endpoints served by the reimplementation:
 
 ### Auth (account.dreamtonics.com)
 
@@ -131,6 +131,12 @@ All endpoints served by the local reimplementation:
 | `GET /update/get_download_url` | Get download package URLs for a product |
 | `GET /translation/get` | UI i18n strings (en-US, ja, zh-CN) |
 | `POST /client/mark_owned` | **Custom endpoint** - grants a full permanent license (used by injected UI button) |
+
+---
+
+## Adding custom products
+
+See [GUIDE.md](GUIDE.md)
 
 ---
 
