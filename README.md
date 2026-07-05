@@ -12,6 +12,12 @@ A reverse-engineered reimplementation of the [Dreamtonics](https://dreamtonics.c
 
 ---
 
+Before anything else...
+
+# VESPER DOES NOT ENABLE PIRACY.
+
+This is mostly a disclaimer for if DT comes across this but also for anyone potentially trying to use this as some sort of "gotcha" against me for promoting "piracy". **Vesper does not let you download or actually use any of Dreamtonics' products.** It is purely for the web version of the product manager and can at MOST let you take a screenshot that shows you own a voicebank and brag about it on Twitter (if that's your jam). 
+
 ## What it does
 
 - **Full Keycloak OIDC auth** - proper PKCE authorization code flow, RS256-signed JWTs, any email + any password accepted
