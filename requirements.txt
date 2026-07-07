@@ -1,2 +1,2 @@
-mitmproxy
-cryptography
+mitmproxy>=12.2.3
+cryptography>=48.0.1,<49
